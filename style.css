@@ -11,6 +11,6 @@ div.block {
 	width: 20px; height: 20px;
 }
 
-div#gird {
-	margin: 30px auto;
+div.filled {
+	background-color: red;
 }
