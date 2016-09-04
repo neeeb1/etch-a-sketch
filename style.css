@@ -11,6 +11,20 @@ div.block {
 	width: 20px; height: 20px;
 }
 
+div#wrapper {
+	margin: 150px 0 auto;
+}
+
 div.filled {
 	background-color: red;
+}
+
+table {
+	text-align: center;
+	margin: 0 auto;
+}
+
+button {
+	margin: 10px auto;
+	display: block;
 }
