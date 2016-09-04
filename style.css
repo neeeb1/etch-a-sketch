@@ -1,0 +1,16 @@
+html {
+	-webkit-appearance: none;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	color: #666;
+}
+
+div.block {
+	/*background-color: red;*/
+	border: 1px solid black;
+	width: 20px; height: 20px;
+}
+
+div#gird {
+	margin: 30px auto;
+}
